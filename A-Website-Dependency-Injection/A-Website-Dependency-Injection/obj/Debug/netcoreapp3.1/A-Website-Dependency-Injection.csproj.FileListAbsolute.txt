@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\bin\Debug\netcoreapp3.1\A-Website-Dependency-Injection.exe
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\bin\Debug\netcoreapp3.1\A-Website-Dependency-Injection.deps.json
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\bin\Debug\netcoreapp3.1\A-Website-Dependency-Injection.runtimeconfig.json
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\bin\Debug\netcoreapp3.1\A-Website-Dependency-Injection.runtimeconfig.dev.json
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\bin\Debug\netcoreapp3.1\A-Website-Dependency-Injection.dll
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\bin\Debug\netcoreapp3.1\A-Website-Dependency-Injection.pdb
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\obj\Debug\netcoreapp3.1\A-Website-Dependency-Injection.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\obj\Debug\netcoreapp3.1\A-Website-Dependency-Injection.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\obj\Debug\netcoreapp3.1\A-Website-Dependency-Injection.AssemblyInfo.cs
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\obj\Debug\netcoreapp3.1\A-Website-Dependency-Injection.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\obj\Debug\netcoreapp3.1\A-Website-Dependency-Injection.dll
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\obj\Debug\netcoreapp3.1\A-Website-Dependency-Injection.pdb
+C:\Users\danie\source\repos\C#\A-Website-Dependency-Injection\A-Website-Dependency-Injection\A-Website-Dependency-Injection\obj\Debug\netcoreapp3.1\A-Website-Dependency-Injection.genruntimeconfig.cache
