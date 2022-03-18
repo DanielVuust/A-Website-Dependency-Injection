@@ -5,8 +5,8 @@ using System.Text;
 
 namespace A_Website_Dependency_Injection.Interfaces
 {
-    interface IReadDataStream
+    public interface IGetData
     {
-        string ReadDataStream(Stream dataStream);
+        string GetData(string path);
     }
 }
